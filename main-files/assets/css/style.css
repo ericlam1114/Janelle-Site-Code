@@ -3380,6 +3380,45 @@ footer {
     right: 0;
     top: 10px; }
 
+    @media only screen and (max-width: 965px) {
+      .logo-resize{
+        
+        height: 35px;
+        
+      }
+    }
+    @media only screen and (max-width: 965px) {
+      .logo-resize{
+        
+        height: 35px;
+        
+      }
+    }
+    @media only screen and (max-width: 965px) {
+      .head-banner{
+        
+        height: 35px;
+        width: 35px;
+        resize: 50%vw;
+        
+      }
+    }
+  
+    @media only screen and (max-width: 965px) {
+      .featured{
+        
+        padding-top: 10px;
+        
+      }
+    }
+    @media only screen and (max-width: 965px) {
+      .logo-push{
+        
+        padding-right: 100px;
+        margin-left: -50px;
+        
+      }
+    }
   
 
   .aubliy-nav.nav-fixed .menu .sticky-logo {
