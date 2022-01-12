@@ -3398,8 +3398,8 @@ footer {
       .head-banner{
         
         height: 35px;
-        width: 35px;
-        resize: 50%vw;
+        width: 50%;
+        
         
       }
     }
@@ -3407,7 +3407,7 @@ footer {
     @media only screen and (max-width: 965px) {
       .featured{
         
-        padding-top: 10px;
+        padding-top: 40px;
         
       }
     }
