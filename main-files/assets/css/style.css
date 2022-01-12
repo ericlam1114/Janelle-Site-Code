@@ -3395,11 +3395,15 @@ footer {
       }
     }
     @media only screen and (max-width: 965px) {
-      .head-banner{
+      .head-banner img .resizeMe{
         
-        height: 35px;
-        width: 50%;
-        
+        background-size: 375px;
+        max-width: 100%;
+
+        height: auto;
+        width: auto;
+        margin:auto;
+        display:block;
         
       }
     }
